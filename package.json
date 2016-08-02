@@ -1,0 +1,13 @@
+{
+  "name": "Lesson1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "1.1.2",
+    "play-sound": "0.0.9"
+  },
+  "devDependencies": {},
+  "author": "Kuzovkov Aleksey",
+  "license": "ISC"
+}
